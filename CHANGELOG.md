@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v6.7.1] 2021-02-15
+### Fixed
+- [#44](https://github.com/seznam/slo-exporter/issues/44) Install missing ca-certificates to docker base image
+
 ## [v6.7.0] 2021-01-29
 ### Changed
 - [#43](https://github.com/seznam/slo-exporter/pull/40) slo-event-producer: `slo_matcher` values are now regular expressions.
